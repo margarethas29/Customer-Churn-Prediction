@@ -4,6 +4,7 @@ Customer churn refers to the phenomenon where customers or subscribers stop doin
 The telecommunications industry is experiencing rapid growth, driven by the ubiquitous use of the internet in today's society. Consumers, as customers, have the right to choose the best provider for their needs and can switch from their current provider. This phenomenon can potentially lead to a decrease in revenue for a company if customers switch providers. As a junior data scientist in a telecommunications company, I have been tasked with predicting customer churn.
 ## Objective
 To Find:
+
 Customer churn prediction using machine learning classification models.
 
 Step by step:
