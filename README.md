@@ -5,7 +5,8 @@ The telecommunications industry is experiencing rapid growth, driven by the ubiq
 ## Objective
 To Find:
 Customer churn prediction using machine learning classification models.
-Step:
+
+Step by step:
 1. Prepare dataset: data train and data test
 2. Import dataset and library
 3. Exploratory Data Analysis
